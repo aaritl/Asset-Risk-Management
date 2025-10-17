@@ -1,0 +1,1 @@
+To what extent can dynamic, multi-asset portfolio diversification (incorporating equities, fixed income, real estate, commodities, and alternative investments) optimize the risk-return tradeoff across varying macroeconomic regimes, and how do advanced risk metrics (GARCH-based volatility, Sharpe ratio, and Treynor ratio) alter traditional mean-variance optimization outcomes.
